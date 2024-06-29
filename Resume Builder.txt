@@ -2,17 +2,6 @@
 
 
 
-• Proficient in Java Programming, Java 8 	
-• Spring Boot, Spring Cloud, Micro-Services 	
-• RESTful web services development 	
-• Database systems: MySQL, PostgreSQL	
-• Testing frameworks: JUnit & Mockito 	
-• Build tools: Maven, Docker 
-• Design Patterns
-• Cloud: AWS, GCP
-• Version control: Git
-• Agile methodologies
-Design patterns:
         API ,Cqrs , ckt breaker , evnen sourcing ( event sourcing with caqrs ) , saga(for Distributed transactions), db per service, aggregator , strangler
         SonarQube 
         Saga pattern

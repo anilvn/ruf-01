@@ -1,0 +1,263 @@
+
+
+
+
+• Proficient in Java Programming, Java 8 	
+• Spring Boot, Spring Cloud, Micro-Services 	
+• RESTful web services development 	
+• Database systems: MySQL, PostgreSQL	
+• Testing frameworks: JUnit & Mockito 	
+• Build tools: Maven, Docker 
+• Design Patterns
+• Cloud: AWS, GCP
+• Version control: Git
+• Agile methodologies
+Design patterns:
+        API ,Cqrs , ckt breaker , evnen sourcing ( event sourcing with caqrs ) , saga(for Distributed transactions), db per service, aggregator , strangler
+        SonarQube 
+        Saga pattern
+        Choreography
+        Orchestration
+        Two-Phase Commit (2PC) 
+        Three-Phase Commit (3PC) 
+		
+		Singleton, 
+		Abstract Factory,
+		Builder,
+		Prototype: 
+		
+		Implemented object-oriented design patterns including Singleton, Abstract Factory, Builder, and Prototype to enhance software modularity and maintainability in a large-scale enterprise application
+		
+		
+	various Servers , Servelets, Hibernated, jdbc
+	frontend libraries, and frameworks
+	Undemanding in usingAWS (Amazon Web Services)services likeEC2, VPC, Cloud Watch, Cloud Front, IAM, S3, Amazon RDS, SNS, SQS.
+	security(owasp top 10)
+		
+		
+		
+
+kakfa , jenkins , zira 
+cloud : s3 , sns, sqs  more ( no sql db )
+Deployment Strategies (A/B , canary with Service mesh )
+		
+		Results-driven Java backend developer with over 2+ years of experience.
+		Skilled in designing and implementing RESTful APIs, integrating with various databases, and ensuring high performance and reliability.
+		Proven ability to work collaboratively in Agile environments, delivering high-quality software solutions that meet business objectives.
+		Passionate about continuous learning and staying updated with emerging trends in microservices development.
+		Seeking a challenging role to apply technical skills and domain knowledge effectively
+		
+		Orchestrated the integration of DevOps practices among a group of 6 developers, resulting in a 30% decrease 	in deployment time and a 20% increase in deployment frequency.
+		
+		
+		Integrated authorization & authentication using aad and sso multifactor authentication.
+		Strengthened system integrity by deploying RBAC with JWT authentication and authorization via Spring Security, resulting in a 50% decrease in security breaches and enhancing user trust.
+		Bolstered application security by integrating Role-Based Access Control (RBAC) with JSON Web Token (JWT) authentication and authorization using Spring Security, reducing unauthorized access incidents by 40% and improving data protection.
+
+  
+		Experience in writing/developing complex PL/SQL Stored Procedures, Packages, Functions, Triggers and Views, Cursor,Collections, Analytical functions, Materialized view, Table Partitioning, Sequences  in various databases such as Oracle, DB2 and MySQL, SQL Server.
+		optimized search capability by using indexing (also search for other optimization techniques )
+  
+        Led the successful migration of an application from an on-premises server infrastructure to Azure Kubernetes Service (AKS), enhancing scalability and reliability.  ( 99.95 % )
+
+        Designed and developed message-based communication protocols using Azure Service Bus queues and topics to decouple services and improve system resilience.
+		Implementation of Asynchronous & event based communication in spring boot using apache kafka, azure , aws
+
+
+        Implemented resilient communication patterns using Resilience4J library, including circuit breakers, retries, and rate limiters, to improve system reliability and fault tolerance.
+        Designed and integrated circuit breakers to gracefully handle failures and prevent cascading failures in distributed systems, reducing downtime by 30%.
+		Implemented Service Mesh for gateway ...
+        Implementing circuit breakers, retries, and rate limiters using Resilience4J.
+		
+		Refactor the code to spring boot 3 to Spring boot 6.
+
+        Developed applications using Multithreading, Serialization, Externalization, Collections and Generics.
+        
+
+        Implemented redis cache system, which enhanced user experience.
+
+        Implemented GRPC communication among in microsevices which reduced the network latency.
+		
+		
+        EFK | ELK
+
+        Graph ql with springboot
+
+        spring boot  + azure keys
+        spring
+  
+		
+		All the technologies used for a specific project.
+
+
+Gained exposure to multitenancy concepts, essential for
+supporting multiple clients on a single application instance.
+Collaborated within a dynamic team at a cutting-edge agricultural
+technology firm.
+
+
+•Developed a tailored platform for the agriculture industry's
+specific needs
+
+•Included performance tracking features for comprehensive
+analytics and reporting
+
+.Developed and maintained Java backend services using Spring
+Boot, facilitating the rapid development of RESTful APIs
+
+Designed and optimized database queries to improve
+performance and scalability, resulting in a 20% reduction in
+response times.
+
+Collaborated with frontend developers to implement Backend
+for Frontend (BFF) services, providing dedicated backend APIs
+for different frontend applications.
+
+Utilized Git for efficient code management and team
+collaboration.
+
+
+
+Develop and maintain automated backup and disaster recovery solutions using AWS services such as EBS and S3
+EC2, S3, Lambda, and DynamoDB
+
+
+
+
+
+
+https://www.tealhq.com/resume-example/aws-full-stack-developer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. REST Demo:
+	○ Demonstrating RESTful services using Spring Boot.
+	○ Implementing CRUD (Create, Read, Update, Delete) operations via REST endpoints.
+	○ Utilizing Spring Data JPA for database interactions.
+	○ Connecting to a MySQL database.
+2. Querying Custom Methods:
+	○ Writing custom queries in Spring Data JPA repositories.
+	○ Leveraging JPQL (Java Persistence Query Language) or native SQL queries.
+	○ Using Spring Data's query methods.
+3. DTO (Data Transfer Object):
+	○ Creating DTOs to transfer data between layers (e.g., controller and service).
+	○ Mapping DTOs to entity classes using tools like ModelMapper or MapStruct.
+4. Exception Handling in Spring Boot:
+	○ Handling exceptions gracefully in Spring Boot applications.
+	○ Customizing error responses.
+	○ Using @ControllerAdvice and @ExceptionHandler.
+5. Mappings and HTTP Methods:
+	○ Understanding how Spring Boot maps HTTP requests to controller methods.
+	○ Associating specific HTTP methods (GET, POST, PUT, DELETE) with controller endpoints.
+6. Spring Boot Actuator:
+	○ Enabling production-ready features for monitoring and managing Spring Boot applications.
+	○ Exposing health checks, metrics, and other useful endpoints.
+7. REST API Validation:
+	○ Validating input data in REST APIs using annotations like @Valid.
+	○ Handling validation errors.
+8. REST API Documentation with Swagger:
+	○ Generating API documentation using Swagger (OpenAPI).
+	○ Describing endpoints, request/response models, and authentication.
+
+
+MVC + Thymeleaf
+
+
+9. Logging :
+		• Implement logging using slf4j library.
+		• Alternatives : Log4j , logback
+10. Application Testing :
+		• Testing using Junit & Mockito
+
+
+
+11. Microservices Communication:
+	○ Communicating between microservices using RestTemplate, WebClient, and Cloud OpenFeign.
+	○ Implementing service-to-service communication.
+12. Centralized Configurations:
+	○ Using Spring Cloud Config Server to manage configuration properties.
+	○ Storing configurations externally (e.g., Git repository).
+	○ Auto Refresh Config Changes using Spring Cloud Bus
+13. Service Discovery and Load Balancing:
+	○ Understanding gateway, discovery, and load balancing in a microservices setup.
+	○ Creating a service registry using Spring Cloud Netflix Eureka.
+	○ Load balancing with Eureka server and Open Feign.
+	○ Using Ribbon
+14. Resilience Patterns:
+	○ Implementing circuit breakers, retries, and rate limiters using Resilience4J.
+	○ Handling timeouts.
+15. API Gateway with Spring Cloud Gateway:
+	○ Building an API gateway to route requests to respective microservices.
+	○ Implementing cross-cutting concerns (e.g., authentication, logging) at the gateway level.
+16. Distributed Tracing:
+	○ Using Spring Cloud Sleuth for distributed tracing.
+	○ Integrating with Zipkin or other tracing systems.
+17. Centralized Logging:
+	○ Setting up centralized logging using Elasticsearch, Fluentd, and Kibana (EFK stack).
+	○ Know about micrometer
+18. Metrics Monitoring with Prometheus:
+	○ Monitoring application metrics using Prometheus.
+19. Distributed Tracing with Uber Jaeger:
+	○ Exploring distributed tracing using Jaeger.
+
+
+
+20. Event-Driven Microservices:
+	○ Implementing event-driven communication using Apache Kafka or RabbitMQ.
+	○ Handling asynchronous processing.
+21. Asynchronous Processing with RabbitMQ:
+	○ Implementing asynchronous message processing using RabbitMQ.
+
+
+
+
+
+22. Dockerizing Spring Boot Applications:
+	○ Containerizing Spring Boot apps using Docker.
+	○ Creating Docker images and running containers.
+	○ Isolating component dependencies and environment
+23. Migrating Existing Microservices:
+	○ Upgrading existing microservices to the latest versions of Spring Boot and related libraries.
+
+
+24. Data Caching with Redis:
+	○ Caching frequently accessed data using Redis cache.
+25. Horizontal Scalability with Cassandra:
+	○ Scaling horizontally using Cassandra as a NoSQL database.
+26. Deployment with Kubernetes on Google Cloud:
+	○ Deploying microservices on Kubernetes clusters hosted on Google Cloud.
+
+
+
+27. OAuth 2.0 and Keycloak:
+	○ Implementing OAuth 2.0 authentication and authorization.
+	○ Exploring Keycloak for identity and access management.
+28. Cloud Basics and DevOps:
+	○ Understanding cloud computing fundamentals.
+	○ Exploring DevOps practices and tools.
+
+
+Design pattern : solid   , DDD , event driven , evnt sourcing , cqrs , saga ,
+webserver : tomcat | jboss
+buildtool : Maven | Gradle
+SCM : Git
